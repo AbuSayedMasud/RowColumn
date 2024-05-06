@@ -1,4 +1,4 @@
-package com.imtiaz.rowcolumn
+package com.masud.rowcolumn
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

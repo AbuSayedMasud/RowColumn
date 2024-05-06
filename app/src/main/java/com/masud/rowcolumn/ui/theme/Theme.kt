@@ -1,4 +1,4 @@
-package com.imtiaz.rowcolumn.ui.theme
+package com.masud.rowcolumn.ui.theme
 
 import android.app.Activity
 import android.os.Build

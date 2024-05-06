@@ -1,7 +1,7 @@
-package com.imtiaz.rowcolumn.demoTry.repo
+package com.masud.rowcolumn.demoTry.repo
 
 import android.annotation.SuppressLint
-import com.imtiaz.rowcolumn.demoTry.model.BrandWiseData
+import com.masud.rowcolumn.demoTry.model.BrandWiseData
 import android.content.Context
 import kotlinx.serialization.json.Json
 

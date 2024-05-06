@@ -1,4 +1,4 @@
-package com.imtiaz.rowcolumn
+package com.masud.rowcolumn
 
 import org.junit.Test
 

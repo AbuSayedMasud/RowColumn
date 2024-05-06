@@ -1,4 +1,4 @@
-package com.imtiaz.rowcolumn.demoTry.model
+package com.masud.rowcolumn.demoTry.model
 
 import kotlinx.serialization.Serializable
 
